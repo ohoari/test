@@ -45,13 +45,6 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             Row(
               children: [
-                Text("7"),
-                Text("8"),
-                Text("9"),
-              ],
-            ),
-            Row(
-              children: [
                 Text("4"),
                 Text("5"),
                 Text("6"),
